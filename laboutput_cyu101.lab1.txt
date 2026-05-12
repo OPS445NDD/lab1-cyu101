@@ -1,0 +1,63 @@
+Script started on 2026-05-08 18:53:55-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;cyu101@cyu101-VirtualBox: ~/ops445/lab1/lab1-cyu101[01;32mcyu101@cyu101-VirtualBox[00m:[01;34m~/ops445/lab1/lab1-cyu101[00m$ [7mpython3 ./CheckLab1.py -f -v[27m[7m [27m[7mlab1a[27m[A]0;cyu101@cyu101-VirtualBox: ~/ops445/lab1/lab1-cyu101[01;32mcyu101@cyu101-VirtualBox[00m:[01;34m~/ops445/lab1/lab1-cyu101[00m$ python3 ./CheckLab1.py -f -v lab1a
+[?2004ltest_0 (__main__.lab1a.test_0)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for file creation: ./lab1a.py ... ok
+test_a (__main__.lab1a.test_a)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for errors running: ./lab1a.py ... ok
+test_a1 (__main__.lab1a.test_a1)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for correct shebang line: ./lab1a.py ... ok
+test_b (__main__.lab1a.test_b)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test output for correct output "Hello world": ./lab1a.py ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.020s
+
+OK
+[?2004h]0;cyu101@cyu101-VirtualBox: ~/ops445/lab1/lab1-cyu101[01;32mcyu101@cyu101-VirtualBox[00m:[01;34m~/ops445/lab1/lab1-cyu101[00m$ [7mpython3 ./CheckLab1.py -f -v[27m[7m [27m[7mlab1b[27m[A]0;cyu101@cyu101-VirtualBox: ~/ops445/lab1/lab1-cyu101[01;32mcyu101@cyu101-VirtualBox[00m:[01;34m~/ops445/lab1/lab1-cyu101[00m$ python3 ./CheckLab1.py -f -v lab1b
+[?2004ltest_0 (__main__.lab1b.test_0)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for file creation: ./lab1b.py ... ok
+test_a (__main__.lab1b.test_a)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for errors running: ./lab1b.py ... ok
+test_a1 (__main__.lab1b.test_a1)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for correct shebang line: ./lab1b.py ... ok
+test_b (__main__.lab1b.test_b)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for correct output "How old are you Isaac?": ./lab1b.py ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.019s
+
+OK
+[?2004h]0;cyu101@cyu101-VirtualBox: ~/ops445/lab1/lab1-cyu101[01;32mcyu101@cyu101-VirtualBox[00m:[01;34m~/ops445/lab1/lab1-cyu101[00m$ [7mpython3 ./CheckLab1.py -f -v[27m[7m [27m[7mlab1c[27m[A]0;cyu101@cyu101-VirtualBox: ~/ops445/lab1/lab1-cyu101[01;32mcyu101@cyu101-VirtualBox[00m:[01;34m~/ops445/lab1/lab1-cyu101[00m$ python3 ./CheckLab1.py -f -v lab1c
+[?2004ltest_0 (__main__.lab1c.test_0)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for file creation: ./lab1c.py ... ok
+test_a (__main__.lab1c.test_a)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for errors running: ./lab1c.py ... ok
+test_a1 (__main__.lab1c.test_a1)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for correct shebang line: ./lab1c.py ... ok
+test_b (__main__.lab1c.test_b)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test output for correct output "Isaac is 72 years old!": ./lab1c.py ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.022s
+
+OK
+[?2004h]0;cyu101@cyu101-VirtualBox: ~/ops445/lab1/lab1-cyu101[01;32mcyu101@cyu101-VirtualBox[00m:[01;34m~/ops445/lab1/lab1-cyu101[00m$ [7mpython3 ./CheckLab1.py -f -v[27m[7m [27m[7mlab1d[27m[A]0;cyu101@cyu101-VirtualBox: ~/ops445/lab1/lab1-cyu101[01;32mcyu101@cyu101-VirtualBox[00m:[01;34m~/ops445/lab1/lab1-cyu101[00m$ python3 ./CheckLab1.py -f -v lab1d
+[?2004ltest_0 (__main__.lab1d.test_0)
+[Lab 1] - [Investigation 5] - math operators - Test for file creation: ./lab1d.py ... ok
+test_a (__main__.lab1d.test_a)
+[Lab 1] - [Investigation 5] - math operators - Test for errors running: ./lab1d.py ... ok
+test_a1 (__main__.lab1d.test_a1)
+[Lab 1] - [Investigation 5] - math operators - Test for correct shebang line: ./lab1d.py ... ok
+test_b (__main__.lab1d.test_b)
+[Lab 1] - [Investigation 5] - math operators - Test output for correct output "10 + 2 * 5 = 20": ./lab1d.py ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.019s
+
+OK
+[?2004h]0;cyu101@cyu101-VirtualBox: ~/ops445/lab1/lab1-cyu101[01;32mcyu101@cyu101-VirtualBox[00m:[01;34m~/ops445/lab1/lab1-cyu101[00m$ whoami
+[?2004lcyu101
+[?2004h]0;cyu101@cyu101-VirtualBox: ~/ops445/lab1/lab1-cyu101[01;32mcyu101@cyu101-VirtualBox[00m:[01;34m~/ops445/lab1/lab1-cyu101[00m$ exit
+[?2004lexit
+
+Script done on 2026-05-08 18:54:13-04:00 [COMMAND_EXIT_CODE="0"]
